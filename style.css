@@ -21,7 +21,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/ss.jpg);
+    background-image: url(images/S2.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -59,7 +59,7 @@ nav ul li a::after{
     content: "";
     width: 0%;
     height: 3px;
-    background-color: #a89579;
+    background-color: #ffff;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -109,7 +109,7 @@ nav ul li a:hover::after{
 }
 
 .header-text h1 span{
-    color: #a89579;
+    color: #4a4f54;
 }
 
 
@@ -117,7 +117,7 @@ nav ul li a:hover::after{
 
 #about{
     padding: 80px 0;
-    color: #ababab;
+    color: #a5bac9;
 }
 
 .row{
@@ -176,7 +176,7 @@ nav ul li a:hover::after{
     position: absolute;
     width: 0px;
     height: 3px;
-    background-color: #a89579;
+    background-color: #4a4f54;
     left: 0;
     bottom: -8px;
     transition: 0.5s;
@@ -193,7 +193,7 @@ nav ul li a:hover::after{
 }
 
 .tab-contents ul li span{
-    color: #a89579;
+    color: #4a4f54;
     font-size: 14px;
 }
 
@@ -253,7 +253,7 @@ nav ul li a:hover::after{
 }
 
 .services-list div:hover{
-    background-color: #a89579;;
+    background-color: #4a4f54;
     transform: translateY(-10px);
 }
     /* Responsive design for smaller screens */
@@ -299,7 +299,7 @@ nav ul li a:hover::after{
 .layer{
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(0,0,0,0.6), #a89579);
+    background: linear-gradient(rgba(0,0,0,0.6), #4a4f54);
     border-radius: 10px;
     position: absolute;
     top: 100%;
@@ -321,7 +321,7 @@ nav ul li a:hover::after{
 
 .layer a{
     margin-top: 20px;
-    color: #a89579;;
+    color: #4a4f54;
     text-decoration: none;
     font-size: 20px;
     line-height: 60px;
@@ -345,7 +345,7 @@ nav ul li a:hover::after{
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #a89579;
+    border: 1px solid #ffff;
     border-radius: 8px;
     padding: 14px 45px;
     text-decoration: none;
@@ -354,7 +354,7 @@ nav ul li a:hover::after{
 }
 
 .btn:hover{
-    background: #a89579;
+    background: #4a4f54;
 }
 /* ------------------ Experience Section ----------------- */
 #experience {
@@ -416,7 +416,7 @@ nav ul li a:hover::after{
 }
 
 .contact-left p i{
-    color: #a89579;;
+    color: #4a4f54;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -429,19 +429,19 @@ nav ul li a:hover::after{
     text-decoration: none;
     font-size: 30px;
     margin-right: 15px;
-    color: #ababab;
+    color: #4a4f54;
     display: inline-block;
     transition: transform 0.5s, color 0.5s;
 }
 
 .social-icons a:hover{
-    color: #a89579;
+    color: #ffff;
     transform: translateY(-5px) scale(1.1);
 }
 
 .btn.btn2{
     display: inline-block;
-    background:  #a89579;
+    background:  #4a4f54;
 }
 
 .contact-right form{
@@ -485,23 +485,23 @@ nav ul li a:hover::after{
 
 .copyright .mylink{
     text-decoration: none;
-    color:  #a89579;
+    color:  #ffff;
     margin: 0px 4px;
 }
 
 .copyright .mylink:hover{
-    color: #ababab;
+    color: #ffff;
 }
 
 .copyright a{
     text-decoration: none;
-    color: #ababab;
+    color: #4a4f54;
     margin-left: 30px;
 }
 
-.copyright a:hover{
+/* .copyright a:hover{
     color:  #a89579;
-}
+} */
 
 /* ----------------- CSS for small screen ------------------ */
 
